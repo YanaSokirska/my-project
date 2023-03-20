@@ -1,2 +1,6 @@
 Third-file Yana
+<<<<<<< HEAD
 Change 2
+=======
+Also changed
+>>>>>>> new-feature

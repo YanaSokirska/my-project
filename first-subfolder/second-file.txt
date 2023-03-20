@@ -1,2 +1,6 @@
 Second file Yana
+<<<<<<< HEAD
 Changes
+=======
+Chandges made
+>>>>>>> new-feature
